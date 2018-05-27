@@ -36,9 +36,11 @@ Thanks to TdlQ for the awesome code :)
 *I know, I've used the PP trainer in this... But that's the only good way to debug things and to show off features real quick.*
 
 # Download:  
-http://download.paydaymods.com/download/latest/BLTCS_Reloaded
+https://github.com/enragedpixel/Carry-Stacker-Reloaded/
 
-# Changelog:  
+# Changelog:
+- **R8**: _Offline Only_ and _Stealth Only_ features
+- **R7**: BLT 2.0 Compatibility
 - **R6**: Fix for not being able to properly play the game online (WHO WOULD WANT TO DO SUCH A THING ANYWAY, AM I RIGHT GUYS?... guys...?)  
 
 Also, revamped the config-system a bit. Old config is being deleted, so make sure to change your stuff again :)  
